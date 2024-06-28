@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/D-star-traders/static/css/main.de79fe3a.css",
+    "main.js": "/D-star-traders/static/js/main.2b5f26fd.js",
+    "static/js/453.ed3810f9.chunk.js": "/D-star-traders/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/D-star-traders/index.html",
+    "main.de79fe3a.css.map": "/D-star-traders/static/css/main.de79fe3a.css.map",
+    "main.2b5f26fd.js.map": "/D-star-traders/static/js/main.2b5f26fd.js.map",
+    "453.ed3810f9.chunk.js.map": "/D-star-traders/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de79fe3a.css",
+    "static/js/main.2b5f26fd.js"
+  ]
+}
