@@ -30,12 +30,6 @@ const products = [
         price:370
     },
     {
-        id:6,
-        category:"derby",
-        image:"./images/derby/shoe6.jpeg",
-        price:370
-    },
-    {
         id:7,
         category:"derby",
         image:"./images/derby/shoe7.jpeg",
